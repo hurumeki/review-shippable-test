@@ -5,5 +5,6 @@ use Rack::Auth::Basic do |username, password|
 end
 
 get '/' do
+  content_type 'application/pdf'
   File.read(File.join('book.pdf'))
 end
