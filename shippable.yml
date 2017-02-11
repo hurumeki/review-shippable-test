@@ -1,7 +1,7 @@
 build_image: vvakame/review
 language: ruby
 rvm:
-  - 2.1.7
+  - 2.1.5
 env:
   global:
     - APP_NAME=hurumeki-review-shippable-test
