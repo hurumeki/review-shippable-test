@@ -1,4 +1,4 @@
-={a} my first Re:VIEW
+={first} my first Re:VIEW
 
 //lead{
 "Hello, Re:VIEW."
@@ -25,6 +25,4 @@ You can install Re:VIEW with:
 
 For more information, see @<tt>{https://github.com/kmuto/review/wiki/}.
 
-出来ます。
-
-={b} my first Re:VIEW
+={second} my second Re:VIEW
