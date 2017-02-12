@@ -21,6 +21,10 @@ You can install Re:VIEW with:
  2. Git
  3. Subversion
 
+//texequation{
+  \sum_{i=1}^nf_n(x)
+//}
+
 //image[cover][cover]
 
 For more information, see @<tt>{https://github.com/kmuto/review/wiki/}.
